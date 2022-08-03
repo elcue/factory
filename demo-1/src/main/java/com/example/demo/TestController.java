@@ -9,7 +9,7 @@ public class TestController {
 	@RequestMapping("/")
 	public String test() {
 		
-		return "hello docker";
+		return "hello docker!";
 	}
 
 }
