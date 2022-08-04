@@ -11,5 +11,11 @@ public class TestController {
 		
 		return "hello!";
 	}
+	
+	@RequestMapping("/members")
+	public String members() {
+		
+		return "hi tom!";
+	}
 
 }
