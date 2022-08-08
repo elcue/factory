@@ -212,23 +212,17 @@ Code on demand는 서버에서 제공하는 code가 client에서 실행 되어�
 REST API 디자인에는 URI는 정보 자원을 표현하고, 행위는  HTTP METHOD로 표현합니다.
 
 
-* 회사에서 원하는 지원자격
-Backend 관련 개발 경력 4년 이상
-MSA에 대한 기본적인 지식이 있으며 이를 기반으로 설계와 개발이 가능한사람
+MSA에 대한 기본적인 지식
  > 독립적인 배포가 가능하고, API를 통해서 상호작용을 한다.
-Domain Model에 대한 이해도가 있는 사람
+ 
+Domain Model에 대한 이해도
  > 도메인의 핵심을 간략하게 단순환해서 표현할 수 있는 모든 것..
 https://brunch.co.kr/@myner/56
-HTTP specification에 대한 전반적인 이해도가 있는 분
+
+HTTP specification에 대한 전반적인 이해
 > http는 서버 클라이언트 모델을 따라 데이터를 주고 받기 위한 프로토콜이다.
  http는 tcp/ip 위에서 작동한다.
  https는 http에 데이터 암호화가 추가된 프로토콜이다.
-
-Rest API를 설계/개발할 수 있는 분
-MSSQL, ORACLE 중 사용 경험이 있고, 대용량 DATA 처리 가능
-Open source에 대한 관심이 높고 이를 적용했거나 활용하기 위해 노력한 경험
-간편결제 관련 업무(회원, 인증, 승인) 또는 Payment 또는 선불전자 관련 경험
-동료 개발자와 명확한 의사소통이 가능한 사람
 
 
  * TCP/ HTTP의 차이
