@@ -187,6 +187,7 @@ Private : 같은 클래스
 * JVM, JRE, JDK에 대해 설명
 https://lisoft.tistory.com/20?category=978383
 https://tecoble.techcourse.co.kr/post/2021-08-09-jvm-memory/
+https://yaboong.github.io/java/2018/05/26/java-memory-management/
 > JVM은 자바 클래스 코드를 실행하는 머신이고, JRE는 자바 코드 실행에 필요한 라이브러리들을 포함하고 있고, JDK는 JRE와 javac,java 등을 포함한 키트입니다.
 
 * final 키워드 설명
