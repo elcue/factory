@@ -249,6 +249,12 @@ https://chrisjune-13837.medium.com/db-lock-%EB%9D%BD%EC%9D%B4%EB%9E%80-%EB%AC%B4
 > shared lock, exclusive lock이 있다. Shared는 읽기, exclusive는 데이터 변경 시 발생한다.
 lock들의 경합으로 인해 블로킹이 발생할 수 있고, 이는 commit, rollback으로 처리한다. Dead lock은 트랜잭션간의 교착상태. 둘다 각각의 트랜잭션이 가지고 있는 리소스의 lcok을 획득하려고 할때 발생한다.
 트러블슈팅
+
+ * Checked Exception, Unchecked Exception
+ > RuntimeException, NullPointerException.. : Unchecked
+ > IOException, SQLException etc.. : Unchecked
+
+
 객체지향 SOLID
 GC란?
 나를 뽑아야 하는 이유가 있나?
