@@ -254,6 +254,9 @@ lock들의 경합으로 인해 블로킹이 발생할 수 있고, 이는 commit,
  > RuntimeException, NullPointerException.. : Unchecked
  > IOException, SQLException etc.. : Unchecked
 
+JAVA NIO 관련 사이트
+http://eincs.com/2009/08/java-nio-bytebuffer-channel-file/
+https://homoefficio.github.io/2016/08/06/Java-NIO%EB%8A%94-%EC%83%9D%EA%B0%81%EB%A7%8C%ED%81%BC-non-blocking-%ED%95%98%EC%A7%80-%EC%95%8A%EB%8B%A4/
 
 객체지향 SOLID
 GC란?
