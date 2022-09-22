@@ -55,7 +55,7 @@ Constraint key primary key( key1)
 3way handshake 연결설정
 SYN 통신 가능여부 -> SYN,ACK 통신 준비 알림 -> ACK 전송
 4way handshaking
-ACK, FIN 연결 종료 요청 -> ACK 확인보내고 통신 끝나길 대기, ACK, FIN 전송 -> ACK 전송
+FIN 연결 종료 요청 -> ACK 확인보내고 통신 끝나길 대기, FIN 전송 -> ACK 전송
 
 
 * dispatcher servlet 설명
