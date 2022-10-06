@@ -1,0 +1,2 @@
+no tests found with test runner junit 5
+project > properties > java Build Path > Order and Export > junit5 최상단으로 위치 변경
